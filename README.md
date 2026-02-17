@@ -1,4 +1,4 @@
-Fish Weight Prediction Project
+Fish Weight Prediction 
 Project Overview:
 
 The Fish Weight Prediction Project is a machine learning based system that predicts the weight of a fish using its physical measurements such as length, height, and width. This project helps estimate fish weight quickly without using a weighing machine.
